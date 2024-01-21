@@ -9,7 +9,7 @@ authors = [
   { name="Jide Olaniyan", email="jidd32@gmail.com" },
 ]
 description = "A flask matchmaker service"
-readme = "README.md"
+readme = "README.MD"
 requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Python :: 3",
